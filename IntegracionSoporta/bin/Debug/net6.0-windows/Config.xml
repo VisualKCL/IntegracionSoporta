@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuracion>
+    <ServidorSAP>
+        <Servidor>ACABELLO</Servidor>
+        <ServidorLicencia>ACABELLO:30000</ServidorLicencia>
+        <UsuarioSAP>manager</UsuarioSAP>
+        <PasswordSAP>123456</PasswordSAP>
+		<TipoDB>2019</TipoDB>
+		<UsuarioDB>sa</UsuarioDB>
+		<PasswordDB>b1admin</PasswordDB>
+		<BaseDatos>Bellcos_SAP</BaseDatos>
+		<Articulo>CATODO</Articulo>
+		<MostrarLineError>Y</MostrarLineError>
+		<FechaInicio>2022-09-01</FechaInicio>
+    </ServidorSAP>
+	<Soporta>
+		<Servidor></Servidor>
+		<Usuario></Usuario>
+		<Password></Password>
+		<Base></Base>
+	</Soporta>
+</Configuracion>
